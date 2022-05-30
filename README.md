@@ -1,1 +1,1 @@
-# indyclassics_ecommerce
+# indy_classics_ecommerce
